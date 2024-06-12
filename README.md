@@ -30,7 +30,10 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1920px-Spring_Framework_Logo_2018.svg.png" alt="Spring" width="80"
       height="40" /> </a> <a href="https://spring.io/" target="_blank"
     rel="noreferrer">
-        
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/1024px-Mysql.svg.png" alt="mysql" width="40"
+      height="40" /> </a> <a href="https://www.mysql.com" target="_blank"
+    rel="noreferrer">
    </p>
 
 <br>
