@@ -27,7 +27,7 @@
       height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer">
     <img
-      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s)" alt="Spring" width="40"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s" alt="Spring" width="40"
       height="40" /> </a> <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://spring.io/)" target="_blank"
     rel="noreferrer">
         
