@@ -27,7 +27,7 @@
       height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer">
     <img
-      src="https://image.pngaaa.com/579/2459579-middle.png" alt="Spring" width="40"
+      src="https://image.pngaaa.com/579/2459579-middle.png" alt="Spring" width="70"
       height="40" /> </a> <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://spring.io/)" target="_blank"
     rel="noreferrer">
         
