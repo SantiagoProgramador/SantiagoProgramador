@@ -27,7 +27,7 @@
       height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1920px-Spring_Framework_Logo_2018.svg.png" alt="Spring" width="70"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1920px-Spring_Framework_Logo_2018.svg.png" alt="Spring" width="80"
       height="40" /> </a> <a href="https://spring.io/" target="_blank"
     rel="noreferrer">
         
