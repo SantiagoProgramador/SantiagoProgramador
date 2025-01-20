@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Santiago Lara</h1>
-<h3 align="center">Student at Riwi, software development🌟.</h3>
+<h3 align="center">Developer & QA Tester.</h3>
 
 <br>
 
 <p><img align="right" src="https://github.com/SantiagoProgramador/SantiagoProgramador/blob/main/animation_500_kxa883sd.gif" alt="SantiagoProgramador" /></p>
 
 
-- 🌱 I’m currently learning Back-end Development.
+- 🌱 I’m currently learning Python.
 
 - 📫 How to reach me **andresx1277@gmail.com**
-
-- ⚡ Fun fact :- Code and Gym are the reasons to live.
 
 <br>
 
